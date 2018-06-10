@@ -1,0 +1,12 @@
+package group.tonight.schmsite_springboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SchmsiteSpringbootApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SchmsiteSpringbootApplication.class, args);
+	}
+}
